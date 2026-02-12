@@ -8,9 +8,7 @@ An AI-powered recruitment pipeline that parses Job Descriptions and Resumes, per
 
 Watch the system in action:
 
-https://github.com/user-attachments/assets/your-video-id-here.mp4
-
-> Replace the URL above with your actual demo video link. You can upload videos directly to GitHub issues/PRs and use the generated URL, or link to YouTube/Loom.
+https://github.com/coderpawan/Agentic-Recruitment-Orchestrator/blob/main/Recruitment%20Orchestration%20DEMO.webm
 
 ## Architecture
 
